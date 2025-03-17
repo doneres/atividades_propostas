@@ -31,3 +31,21 @@ Cada PBL possui sua própria pasta, contendo o código-fonte e, quando necessár
  ┃ ┣ 📜 README.md
  ┃ ┗ 📜 ...
  ┗ 📜 README.md
+```
+
+## 🚀 Como executar os projetos
+Para rodar os códigos, tenha o Java 21 instalado na sua máquina.
+ 1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Navegue até a pasta do PBL desejado:
+```bash
+cd PBL-01
+```
+3. Compile e execute o código:
+```bash
+javac Main.java
+java Main
+```
